@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90ce0074-a66d-432d-9ede-bab3bd751d56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Stata" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Sv8FtrHOpYjbPdTVo5p2jFN3ok" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project/python" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/python" />
+      <recent name="$PROJECT_DIR$/project/stata" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="make_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1433_final_paper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/make_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.make_dataset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90ce0074-a66d-432d-9ede-bab3bd751d56" name="Default Changelist" comment="" />
+      <created>1572432608467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572432608467</updated>
+      <workItem from="1572432610165" duration="8294000" />
+      <workItem from="1572564046580" duration="596000" />
+      <workItem from="1572733752637" duration="602000" />
+      <workItem from="1572898480337" duration="596000" />
+      <workItem from="1572904583858" duration="602000" />
+      <workItem from="1572907093222" duration="956000" />
+      <workItem from="1572925607231" duration="1835000" />
+      <workItem from="1572928819213" duration="634000" />
+      <workItem from="1572980868305" duration="596000" />
+      <workItem from="1572983186072" duration="597000" />
+      <workItem from="1573011165535" duration="597000" />
+      <workItem from="1573064142717" duration="597000" />
+      <workItem from="1573597563861" duration="1260000" />
+      <workItem from="1574140181034" duration="4072000" />
+      <workItem from="1574188236896" duration="3370000" />
+      <workItem from="1574383373661" duration="18294000" />
+      <workItem from="1574623269537" duration="603000" />
+      <workItem from="1575323317384" duration="809000" />
+      <workItem from="1575351084660" duration="6124000" />
+      <workItem from="1576064002555" duration="1041000" />
+      <workItem from="1576066019769" duration="8927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1576066020667">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1576066020667" />
+  </component>
+</project>
