@@ -1,6 +1,9 @@
+# Native Python imports
 import os
-import pandas as pd
 import itertools
+
+# External package imports
+import pandas as pd
 
 
 def average_unemployment_data():
@@ -10,13 +13,11 @@ def average_unemployment_data():
     city_names = [unemp_files[i][:-5] for i in range(N)]  # City names
     city_names.sort()
     avg_unp_per_year = {unemp_files[i][:-5]: {} for i in range(N)}
-    print(avg_unp_per_year)
 
     for file in unemp_files:  # Read each file in iteratively
         df = pd.read_excel(os.path.join(data_dir, file), skiprows=11)
         for year, value in zip(df["Year"], df["Observation Value"]):
             if int(year) == 2017:
-                print(file)
             if year in list(avg_unp_per_year[file[:-5]].keys()):
                 avg_unp_per_year[file[:-5]][year] += value/11
             else:
