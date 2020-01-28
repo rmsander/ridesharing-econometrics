@@ -8,10 +8,12 @@ This repository details the work completed for my capstone Economics Class, 14.3
 * Fixed Effects with Controls
 * Fixed Effects, Controls, and Instrumental Variables
 
- ## Environment Installation
- An Anaconda environment was used for this project.  To set up the conda environment, you can do so with the following bash command:
+ ## Installation
+ You can install the Python packages necessary for this project using pip, a Python package manager:
  
- `conda env create -f environment.yml`
+ `pip install -r requirements.txt`
+ 
+ **Note**: To run the Stata code for econometric analysis, you will need access to a Stata interpreter.
 
 ## Datasets
 For this project, I used data from the **Texas Transportation Institute 2019 Urban Mobility Report, Uber and Lyft entry data, U.S. Bureau of Labor Statistics, and the U.S. Census Bureau**.  The data for this project can be found in the `data/` sub-directory.
